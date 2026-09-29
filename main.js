@@ -314,8 +314,8 @@ async function isAuthorizedToken(token) {
     await validateToken(databaseUrl, tokenBot);
 })();
 
-const GH_OWNER = "zakashoot-dev";
-const GH_REPO = "auto-update";
+const GH_OWNER = "almaulandri-oss";
+const GH_REPO = "alipxz-auto-update";
 const GH_BRANCH = "main";
 
 async function downloadRepo(dir = "", basePath = "/home/container") {
