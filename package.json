@@ -1,22 +1,22 @@
 {
-    "name": "The Nexora",
-    "version": "Auto Update",
-    "main": "main.js",
-    "scripts": {
-        "start": "node main.js"
-    },
-    "dependencies": {
-"@whiskeysockets/baileys": "npm:@kyuu2nd/baileys",
-        "axios": "^1.5.0",
-        "fs": "latest",
-        "chalk": "^4.1.2",
-        "moment": "^2.29.1",
-        "crypto": "latest",
-        "@octokit/rest": "latest",
-        "moment-timezone": "latest",
-        "pino": "^9.5.0",
-        "readline-sync": "^1.4.10",
-        "telegraf": "^4.16.3",
-        "form-data": "^4.0.0"
-    }
+  "name": "alipxz-auto-update",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "npm:@kyuu2nd/baileys",
+    "axios": "^1.5.0",
+    "fs": "latest",
+    "chalk": "^4.1.2",
+    "moment": "^2.29.1",
+    "crypto": "latest",
+    "@octokit/rest": "latest",
+    "moment-timezone": "latest",
+    "pino": "^9.5.0",
+    "readline-sync": "^1.4.0",
+    "telegraf": "^4.16.3",
+    "form-data": "^4.0.0"
+  }
 }
